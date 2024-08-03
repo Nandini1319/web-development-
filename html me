@@ -38,7 +38,7 @@
             <div class="about-text">
                 <h2>About Me</h2>
                 <h5>Analyst <span>& Researcher</span></h5>
-                <p>Passionate researcher and analyst with a flair for creating seamless digital experiences. Proficient in MS Excel and leadership, I am also pursuing Mandarin language. Committed to continuous learning. My hobbies include playing guitar and doing arts and crafts in my free time. I have great problem-solving and communication skills and I love to pay attention to every detail.</p>
+                <p>Passionate researcher and analyst with a flair for creating seamless digital experiences. Proficient in MS Excel and leadership, I am also pursuing Mandarin. Committed to continuous learning. My hobbies include playing guitar and doing arts and crafts in my free time. I have great problem-solving and communication skills and I love to pay attention to every detail.</p>
             </div>
         </div>
     </section>
@@ -53,7 +53,7 @@
                 <h5>Project 1</h5>
                 <div class="pra">
                     <p><b>E-commerce Website</b><br>
-                    <img src="https://previews.123rf.com/images/stokkete/stokkete1502/stokkete150200297/36893119-online-shopping-website-on-laptop-screen-with-female-hands-typing.jpg" alt="E-commerce Website" style="width: 150px; height: 175px;"></p>
+                    <img src="https://previews.123rf.com/images/stokkete/stokkete1502/stokkete150200297/36893119-online-shopping-website-on-laptop-screen-with-female-hands-typing.jpg" alt="E-commerce Website"></p>
                     <p style="text-align: center;"><a class="button" href="#">Show More</a></p>
                 </div>
             </div>
@@ -61,7 +61,7 @@
                 <h5>Project 2</h5>
                 <div class="pra">
                     <p><b>Weather Application</b><br>
-                    <img src="https://www.codespeedy.com/wp-content/uploads/2020/06/3.png" alt="Weather Application" style="width: 150px; height: 175px;"></p>
+                    <img src="https://www.codespeedy.com/wp-content/uploads/2020/06/3.png" alt="Weather Application"></p>
                     <p style="text-align: center;"><a class="button" href="#">Show More</a></p>
                 </div>
             </div>
@@ -69,7 +69,7 @@
                 <h5>Project 3</h5>
                 <div class="pra">
                     <p><b>Hospital Management</b><br>
-                    <img src="https://www.inkthemes.com/wp-content/uploads/2019/03/Hospital-automanger-thumb-image11.png" alt="Hospital Management" style="width: 150px; height: 175px;"></p>
+                    <img src="https://www.inkthemes.com/wp-content/uploads/2019/03/Hospital-automanger-thumb-image11.png" alt="Hospital Management"></p>
                     <p style="text-align: center;"><a class="button" href="#">Show More</a></p>
                 </div>
             </div>
@@ -85,20 +85,24 @@
             <div class="card2">
                 <h5>Data Analyst</h5>
                 <div class="pra2">
-                    <li>Leadership</li>
-                    <li>Volunteering</li>
-                    <li>Crowdfunding</li>
-                    <li>React</li>
-                    <li>Research</li>
+                    <ul>
+                        <li>Leadership</li>
+                        <li>Volunteering</li>
+                        <li>Crowdfunding</li>
+                        <li>React</li>
+                        <li>Research</li>
+                    </ul>
                 </div>
             </div>
             <div class="card2">
                 <h5>Social Media and Technology</h5>
                 <div class="pra2">
-                    <li>Editor</li>
-                    <li>Finance</li>
-                    <li>Mandarin</li>
-                    <li>Git</li>
+                    <ul>
+                        <li>Editor</li>
+                        <li>Finance</li>
+                        <li>Mandarin</li>
+                        <li>Git</li>
+                    </ul>
                 </div>
             </div>
         </div>
@@ -115,13 +119,11 @@
         <p>Get In Touch</p>
         <p>Contact Me - <a href="mailto:nandiniverma1319@gmail.com">nandiniverma1319@gmail.com</a></p>
         <div class="social">
-            <a href="https://github.com/"><i class="fa-brands fa-square-github"></i></a>
-            <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
-            <a href="https://www.linkedin.com/feed/"><i class="fa-brands fa-linkedin"></i></a>
+            <a href="https://github.com/your-profile"><i class="fa-brands fa-square-github"></i></a>
+            <a href="https://www.instagram.com/your-profile"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.linkedin.com/in/your-profile"><i class="fa-brands fa-linkedin"></i></a>
         </div>
         <p class="last">CopyRight &copy; by Nandini Verma</p>
     </footer>
 </body>
 </html>
-
-   
